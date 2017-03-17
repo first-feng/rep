@@ -1,3 +1,0 @@
-The file will be stored in the read.txt
-Git is a distributed version control system
-Git is free software
